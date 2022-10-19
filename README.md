@@ -1,6 +1,7 @@
-### Hi there 👋 Eu sou Matheus Felipe S Barreto
+### Hi there 👋
+Eu sou Matheus Felipe S Barreto
 
-<div align="center">
+<div>
   <a href="https://github.com/matheusfsbarreto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfsbarreto&layout=compact&langs_count=7&theme=radical"/>
 
