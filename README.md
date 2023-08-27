@@ -1,6 +1,10 @@
 ### Hi there 👋
 Eu sou Matheus Felipe S Barreto
 
+Sergipano, apreciador de caranguejo e do famoso cuscuz nordestino.
+
+Acredito no poder da tecnologia e é exatamente essa convicção que me levou a migrar para o mundo do Desenvolvimento Web.
+
 <div>
   <a href="https://github.com/matheusfsbarreto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfsbarreto&layout=compact&langs_count=7&theme=radical"/>
