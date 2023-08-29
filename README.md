@@ -1,9 +1,9 @@
 ### Hi there 👋
 Eu sou Matheus Felipe S Barreto
 
-Sergipano, apreciador de caranguejo e do famoso cuscuz nordestino.
-
 Acredito no poder da tecnologia e é exatamente essa convicção que me levou a migrar para o mundo do Desenvolvimento Web.
+
+Tenho interesse em atuar como Desenvolvedor Web Back-end, Front-end ou Full Stack, e estou constantemente aprendendo e aprimorando minhas habilidades.
 
 <div>
   <a href="https://github.com/matheusfsbarreto">
@@ -13,11 +13,12 @@ Acredito no poder da tecnologia e é exatamente essa convicção que me levou a 
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Matheus-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Matheus-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Matheus-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Matheus-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Matheus-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Matheus-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Matheus-Reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Matheus-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   
 </div>
 
